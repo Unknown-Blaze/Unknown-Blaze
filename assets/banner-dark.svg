@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
   <title id="title">Rudra Prasadh Ganesh</title>
-  <desc id="desc">Software engineer, robotics and AI. Software, embedded hardware, machine learning.</desc>
+  <desc id="desc">Software engineer: AI, full-stack and robotics. Machine learning, web and mobile, embedded and robotics.</desc>
   <rect x="0.5" y="0.5" width="1199" height="239" rx="14" fill="#0D1117" stroke="#30363D"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <rect x="64" y="66" width="4" height="108" rx="2" fill="#2DD4BF"/>
     <text x="92" y="104" font-size="40" font-weight="600" fill="#E6EDF3" letter-spacing="-0.5">Rudra Prasadh Ganesh</text>
-    <text x="92" y="140" font-size="22" fill="#C9D1D9">Software engineer, robotics &amp; AI</text>
-    <text x="92" y="172" font-size="16" fill="#8B949E" letter-spacing="0.3">software · embedded hardware · machine learning</text>
+    <text x="92" y="140" font-size="22" fill="#C9D1D9">Software engineer · AI, full-stack &amp; robotics</text>
+    <text x="92" y="172" font-size="16" fill="#8B949E" letter-spacing="0.3">machine learning · web &amp; mobile · embedded &amp; robotics</text>
   </g>
   <g fill="none" stroke-linecap="round">
     <g stroke="#1C2229" stroke-width="1">
