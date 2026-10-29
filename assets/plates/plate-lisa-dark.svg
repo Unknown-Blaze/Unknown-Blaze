@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" viewBox="0 0 480 640" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="680" viewBox="0 0 480 680" role="img" aria-labelledby="title desc">
 <title id="title">LISA 1.0 system plate</title>
 <desc id="desc">Users in 4 ASEAN markets use a Next.js 15 app. An API layer backed by PostgreSQL calls retrieval (RAG) over a document store, then an LLM, which returns the answer. Deployed on Alibaba Cloud with Terraform. API latency 300 ms to 50 ms; cloud cost down 70%.</desc>
 <defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0 H0 V20" fill="none" stroke="#171D25" stroke-width="1"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8B949E"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker></defs>
-<rect x="0.5" y="0.5" width="479" height="639" rx="14" fill="#0D1117"/>
-<rect x="0.5" y="0.5" width="479" height="639" rx="14" fill="url(#grid)" stroke="#30363D"/>
+<rect x="0.5" y="0.5" width="479" height="679" rx="14" fill="#0D1117"/>
+<rect x="0.5" y="0.5" width="479" height="679" rx="14" fill="url(#grid)" stroke="#30363D"/>
 <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#2DD4BF" font-weight="700" letter-spacing="1.2">PLATE B · LISA 1.0</text>
 <text x="456" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8B949E" letter-spacing="1" text-anchor="end">MISUMI.AI</text>
 <path d="M18 52 H462" stroke="#30363D" stroke-width="1"/>
@@ -41,11 +41,11 @@
 <text x="356.0" y="473.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#E6EDF3" font-weight="600" text-anchor="middle">Answer</text>
 <text x="356.0" y="493.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" fill="#8B949E" letter-spacing="0.6" text-anchor="middle">BACK TO THE USER</text>
 <circle cx="124.0" cy="528" r="3.6" fill="#FBBF24"/>
-<path d="M124.0 528 L124.0 552" fill="none" stroke="#FBBF24" stroke-width="1.3"/>
-<text x="30" y="588" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#FBBF24" font-weight="700" letter-spacing="-0.4">300 → 50 ms</text>
-<text x="30" y="610" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.0" fill="#8B949E" letter-spacing="0.6">API LATENCY</text>
+<path d="M124.0 528 L124.0 574" fill="none" stroke="#FBBF24" stroke-width="1.3"/>
+<text x="30" y="612" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#FBBF24" font-weight="700" letter-spacing="-0.4">300 → 50 ms</text>
+<text x="30" y="634" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.0" fill="#8B949E" letter-spacing="0.6">API LATENCY</text>
 <circle cx="356.0" cy="528" r="3.6" fill="#FBBF24"/>
-<path d="M356.0 528 L356.0 552" fill="none" stroke="#FBBF24" stroke-width="1.3"/>
-<text x="286" y="588" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#FBBF24" font-weight="700" letter-spacing="-0.4">−70%</text>
-<text x="286" y="610" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.0" fill="#8B949E" letter-spacing="0.6">CLOUD COST</text>
+<path d="M356.0 528 L356.0 574" fill="none" stroke="#FBBF24" stroke-width="1.3"/>
+<text x="286" y="612" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#FBBF24" font-weight="700" letter-spacing="-0.4">−70%</text>
+<text x="286" y="634" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.0" fill="#8B949E" letter-spacing="0.6">CLOUD COST</text>
 </svg>
