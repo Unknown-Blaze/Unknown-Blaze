@@ -19,7 +19,9 @@ I am a software engineer in Singapore who builds AI-backed products end to end: 
 - **YOLOv8 inference API**, Panasonic R&D Center Singapore: FastAPI and Docker, with async processing for real-time workflows. Not public.
 - **FunctionGemma**, National Top 10, Cactus x Google Global Hackathon: function calling routed between an on-device model and the cloud. [Repo](https://github.com/Unknown-Blaze/functiongemma-hackathon)
 - **Truth Fairy**, Top 5, NTU TechFest: Chrome extension against misinformation, with deepfake detection and Grad-CAM explanations. [Repo](https://github.com/Unknown-Blaze/techfest-truth-fairy)
+- **Bloomberg Code Crunch**: deep-learning trading-signal pipeline with LSTM, GRU and Transformer models and a backtest that includes transaction costs. [Repo](https://github.com/Unknown-Blaze/Bloomberg-Code-Crunch)
 - **BirdCLEF**, Kaggle competition project for SC4000. Private repo.
+- **CareerAxis automator**: an LLM pipeline that collects NTU CareerAxis job listings and drafts tailored applications. Private repo.
 - **Edge-AI motion detection**, URECA research poster: 96% accuracy at 180 ms latency on an ODROID N2.
 
 Also: [full fine-tuning vs LoRA for sentiment analysis](https://github.com/Unknown-Blaze/SC4001-Group-Project) · [PSA Code Sprint](https://github.com/Unknown-Blaze/PSASprint) finalist, time-series forecasting
@@ -34,7 +36,7 @@ Also: [full fine-tuning vs LoRA for sentiment analysis](https://github.com/Unkno
       <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds"><img src="assets/work/myccds.png" width="100%" alt="MyCCDS on Google Play"></a><br>
       <b>MyCCDS</b><br>
       iOS and Android app for NTU CCDS students, 600+ daily active users.<br>
-      <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds">Play Store</a> · <a href="https://apps.apple.com/us/app/myccds/id6753279278">App Store</a> · <a href="https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds">Press</a>
+      <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds">Play Store</a> · <a href="https://apps.apple.com/us/app/myccds/id6753279278">App Store</a> · <a href="https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds">Press</a> · <a href="https://github.com/Unknown-Blaze/myccds">Source</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Unknown-Blaze/FYP-Research"><img src="assets/work/fyp.png" width="100%" alt="PCC of 0.859 against 0.847 for the best retrained baseline"></a><br>
@@ -75,12 +77,13 @@ Also: [full fine-tuning vs LoRA for sentiment analysis](https://github.com/Unkno
 
 ## Software engineering
 
-- **MyCCDS**: React Native and Expo app for NTU CCDS students, 600+ daily active users on both stores. [Press](https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds)
+- **MyCCDS**: React Native and Expo app for NTU CCDS students, 600+ daily active users on both stores. [Press](https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds) · [Source](https://github.com/Unknown-Blaze/myccds)
 - **Mango order management**: ordering and online payments for a retailer with React, Firebase and Stripe. [Live](https://mango-club.vercel.app)
 - **SyncTube**: YouTube watch parties kept in sync in real time, Next.js 15 and Socket.IO. [Repo](https://github.com/Unknown-Blaze/synctube) · [Live](https://synctube-tau.vercel.app)
 - **Blazing Chess**: website for a chess academy, Next.js 14, TypeScript and Tailwind CSS. [Repo](https://github.com/Unknown-Blaze/blazing-chess) · [Live](https://blazing-chess.vercel.app)
 - **Sustainability analytics platform**, MODEC: React on a Django REST Framework backend handling 500+ concurrent requests; Redis cut retrieval time by 40%; IoT ingestion through AWS Lambda and S3. Not public.
 - **CCDS alumni platform**, NTU: networking platform connecting alumni and students for startup and event collaboration (WordPress, PHP, SQL). Not public.
+- **Kaboo**: the Kaboo card game in the browser with an AI opponent, React, TypeScript and Firebase. Private repo.
 
 Also: [nGoDonate](https://github.com/Unknown-Blaze/SC4053-Project), Winner, Best Developer Tooling, EasyA x Ripple · [GroceryGrabber](https://github.com/Unknown-Blaze/BrainHacks-Code-Exp), DSTA BrainHack finalist
 
