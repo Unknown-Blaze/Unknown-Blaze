@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc">
+<title id="title">Experience timeline, January 2024 to October 2026</title>
+<desc id="desc">Schaeffler May–Aug 2024; NTU CCDS May 2024–Jul 2025; URECA research Aug 2024–Apr 2025; Panasonic Jan–Jun 2025; MODEC Jun–Aug 2025 and Dec 2025–Jan 2026; NIE Jun–Oct 2025; Final Year Project Aug 2025–May 2026; MISUMI.AI Sep 2025–Aug 2026; Lumerva Sep 2025–present; Fabrica AI Jul 2026–present.</desc>
+<defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0 H0 V20" fill="none" stroke="#E6EAEE" stroke-width="1"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#57606A"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#C2410C"/></marker></defs>
+<rect x="0.5" y="0.5" width="1599" height="469" rx="14" fill="#F6F8FA"/>
+<rect x="0.5" y="0.5" width="1599" height="469" rx="14" fill="url(#grid)" stroke="#D0D7DE"/>
+<text x="28" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0F766E" font-weight="700" letter-spacing="1.6">EXPERIENCE · JAN 2024 → OCT 2026</text>
+<path d="M20 48 H1580" stroke="#D0D7DE" stroke-width="1"/>
+<g><rect x="1328" y="10" width="252" height="44" fill="#F6F8FA" stroke="#57606A" stroke-width="1"/><path d="M1328 32 H1580" stroke="#57606A" stroke-width="0.75"/></g>
+<text x="1338" y="25.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#1F2328" font-weight="700" letter-spacing="1.1">DETAIL F · NOT TO SCALE</text>
+<text x="1338" y="47.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606A" letter-spacing="1.1">SHEET · TIMELINE</text>
+<rect x="28" y="64" width="26" height="14" rx="3" fill="#0F766E"/>
+<text x="62" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="600" letter-spacing="1.2">INDUSTRY</text>
+<rect x="178.8" y="64" width="26" height="14" rx="3" fill="#C2410C"/>
+<text x="212.8" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="600" letter-spacing="1.2">RESEARCH</text>
+<rect x="329.6" y="64" width="26" height="14" rx="3" fill="#FFFFFF" stroke="#1F2328" stroke-width="1.6"/>
+<text x="363.6" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="600" letter-spacing="1.2">OWN VENTURE</text>
+<path d="M70.0 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M198.8 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M327.6 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M456.5 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M585.3 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M714.1 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M842.9 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M971.8 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M1100.6 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M1229.4 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M1358.2 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<path d="M1487.1 94 V374" stroke="#D0D7DE" stroke-width="1" stroke-dasharray="2 4"/>
+<rect x="241.8" y="104.0" width="171.8" height="34" rx="5" fill="#0F766E"/>
+<text x="251.76470588235293" y="127.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">Schaeffler</text>
+<rect x="585.3" y="104.0" width="257.6" height="34" rx="5" fill="#0F766E"/>
+<text x="595.2941176470588" y="127.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">Panasonic</text>
+<rect x="928.8" y="104.0" width="515.3" height="34" rx="5" fill="#0F766E"/>
+<text x="938.8235294117648" y="127.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">MISUMI.AI · DevOps Engineer &amp; Team Lead</text>
+<rect x="241.8" y="150.0" width="644.1" height="34" rx="5" fill="#0F766E"/>
+<text x="251.76470588235293" y="173.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">NTU CCDS · Full Stack Developer</text>
+<rect x="1358.2" y="150.0" width="171.8" height="34" rx="5" fill="#0F766E"/>
+<path d="M1516.0 158.0 L1524.0 167.0 L1516.0 176.0" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<text x="1368.235294117647" y="173.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">Fabrica AI</text>
+<rect x="800.0" y="196.0" width="128.8" height="34" rx="5" fill="#0F766E"/>
+<text x="810.0" y="219.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">MODEC</text>
+<rect x="1057.6" y="196.0" width="85.9" height="34" rx="5" fill="#0F766E"/>
+<text x="1067.6470588235293" y="219.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">MODEC</text>
+<rect x="370.6" y="242.0" width="386.5" height="34" rx="5" fill="#C2410C"/>
+<text x="380.5882352941176" y="265.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">URECA · edge-AI research</text>
+<rect x="885.9" y="242.0" width="429.4" height="34" rx="5" fill="#C2410C"/>
+<text x="895.8823529411765" y="265.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">Final Year Project · MHC-peptide</text>
+<rect x="800.0" y="288.0" width="214.7" height="34" rx="5" fill="#C2410C"/>
+<text x="810.0" y="311.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" font-weight="600">NIE · AI Engineer</text>
+<rect x="928.8" y="334.0" width="601.2" height="34" rx="5" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/>
+<path d="M1516.0 342.0 L1524.0 351.0 L1516.0 360.0" fill="none" stroke="#1F2328" stroke-width="2"/>
+<text x="938.8235294117648" y="357.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#1F2328" font-weight="600">Lumerva · Co-Founder</text>
+<path d="M70 358 V416 M1530 358 V416" stroke="#57606A" stroke-width="1"/>
+<path d="M72 404 H1528" fill="none" stroke="#57606A" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<path d="M70.0 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M112.9 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M155.9 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M198.8 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M241.8 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M284.7 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M327.6 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M370.6 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M413.5 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M456.5 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M499.4 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M542.4 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M585.3 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M628.2 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M671.2 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M714.1 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M757.1 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M800.0 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M842.9 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M885.9 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M928.8 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M971.8 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M1014.7 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1057.6 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1100.6 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M1143.5 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1186.5 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1229.4 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M1272.4 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1315.3 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1358.2 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M1401.2 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1444.1 400 V408" stroke="#57606A" stroke-width="1"/>
+<path d="M1487.1 397 V411" stroke="#57606A" stroke-width="1.4"/>
+<path d="M1530.0 400 V408" stroke="#57606A" stroke-width="1"/>
+<text x="70.0" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="700" letter-spacing="0.8" text-anchor="middle">JAN 2024</text>
+<text x="198.8235294117647" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">APR</text>
+<text x="327.6470588235294" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">JUL</text>
+<text x="456.47058823529414" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">OCT</text>
+<text x="585.2941176470588" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="700" letter-spacing="0.8" text-anchor="middle">JAN 2025</text>
+<text x="714.1176470588235" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">APR</text>
+<text x="842.9411764705883" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">JUL</text>
+<text x="971.7647058823529" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">OCT</text>
+<text x="1100.5882352941176" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1F2328" font-weight="700" letter-spacing="0.8" text-anchor="middle">JAN 2026</text>
+<text x="1229.4117647058824" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">APR</text>
+<text x="1358.235294117647" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">JUL</text>
+<text x="1487.0588235294117" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606A" letter-spacing="0.8" text-anchor="middle">OCT</text>
+<path d="M1525.7 84 V404" stroke="#C2410C" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="1519.7058823529412" y="80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#C2410C" font-weight="700" letter-spacing="1.4" text-anchor="end">NOW</text>
+</svg>
