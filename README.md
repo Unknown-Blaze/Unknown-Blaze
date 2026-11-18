@@ -126,7 +126,7 @@ More: [GroceryGrabber](https://github.com/Unknown-Blaze/BrainHacks-Code-Exp), DS
         <source media="(prefers-color-scheme: dark)" srcset="assets/plates/plate-myccds-dark.svg">
         <img alt="MyCCDS: Expo and React Native app on iOS and Android backed by Firebase Authentication and Firestore; 600+ daily active users" src="assets/plates/plate-myccds-light.svg" width="100%">
       </picture>
-      <p align="center"><sub><code>PLATE D</code> MyCCDS: one Expo codebase on both stores</sub></p>
+      <p align="center"><sub><code>PLATE D</code> MyCCDS: one Expo codebase for iOS and Android</sub></p>
     </td>
     <td width="50%" valign="top">
       <picture>
@@ -150,7 +150,7 @@ More: [GroceryGrabber](https://github.com/Unknown-Blaze/BrainHacks-Code-Exp), DS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline/timeline-dark.svg">
-  <img alt="Experience timeline from January 2024 to October 2026: Schaeffler, NTU CCDS, URECA research, Panasonic, MODEC twice, NIE, Final Year Project, MISUMI.AI, Lumerva and Fabrica AI" src="assets/timeline/timeline-light.svg" width="100%">
+  <img alt="Experience timeline from January 2024 to October 2026: Schaeffler, NTU CCDS, URECA research, Panasonic, MODEC twice, NIE, Final Year Project, MISUMI.AI (to August 2026), Lumerva (to July 2026) and Fabrica AI (since July 2026)" src="assets/timeline/timeline-light.svg" width="100%">
 </picture>
 <p align="center"><sub>Industry in teal, research in amber, own venture outlined</sub></p>
 
@@ -168,7 +168,7 @@ More: [GroceryGrabber](https://github.com/Unknown-Blaze/BrainHacks-Code-Exp), DS
 
 ## Beyond code
 
-President and captain of the NTU International Chess Varsity, music director of the NTU Piano Ensemble (ABRSM Grade 8, Distinction), and a Malaysia National Cubing Open finalist.
+At NTU, president and captain of the International Chess Varsity and music director of the Piano Ensemble (ABRSM Grade 8, Distinction). Also a Malaysia National Cubing Open finalist.
 
 ## Contact
 
