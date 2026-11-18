@@ -41,7 +41,7 @@ I am a software engineer in Singapore who builds AI-backed products end to end: 
     <td width="50%" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds"><img src="assets/work/myccds-screens.png" width="100%" alt="Four MyCCDS Android screens: welcome, home with top links, how to use, report an issue"></a><br>
       <b>MyCCDS</b> · React Native and Expo app for NTU CCDS students, 600+ daily active users.<br>
-      <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds">Play Store</a> · <a href="https://apps.apple.com/us/app/myccds/id6753279278">App Store</a> · <a href="https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds">Press</a>
+      <a href="https://play.google.com/store/apps/details?id=com.ntu.myccds">Play Store</a> · <s><a href="https://apps.apple.com/us/app/myccds/id6753279278">App Store</a></s> <sub>(delisted)</sub> · <a href="https://www.ntu.edu.sg/computing/news-events/news/detail/ganesh-rudra-prasadh-transforms-student-experience-with-myccds">Press</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Unknown-Blaze/FYP-Research"><img src="assets/work/fyp.png" width="100%" alt="Bar chart: PCC of 0.859 against 0.847 for the best retrained baseline"></a><br>

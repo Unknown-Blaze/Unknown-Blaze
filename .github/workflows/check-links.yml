@@ -1,5 +1,6 @@
 # Weekly check that every link and image in the profile README still resolves.
-# LinkedIn is excluded because it answers 999 to automated requests.
+# LinkedIn is excluded because it answers 999 to automated requests. The MyCCDS App Store
+# listing was delisted; the README keeps it, struck through and marked delisted, so it is excluded too.
 name: Check links
 
 on:
@@ -24,6 +25,7 @@ jobs:
             --no-progress
             --max-retries 3
             --exclude "linkedin\.com"
+            --exclude "apps\.apple\.com/us/app/myccds"
             --accept 200,206,429
             README.md
           fail: true
