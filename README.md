@@ -32,7 +32,6 @@ I am a software engineer in Singapore who builds AI-backed products end to end: 
 ## Now
 
 - **Fabrica AI**: sole software engineer on the ROS 2 codebase of an autonomous tile-grouting robot, deployed in Singapore and Australia.
-- **Lumerva**: co-founder and full-stack engineer on a learning platform: React, TypeScript, Python, Celery, Redis, YouTube Data and Brave Search APIs.
 
 ## Selected work
 
@@ -110,6 +109,7 @@ More: [full fine-tuning vs LoRA for sentiment analysis](https://github.com/Unkno
 
 ## Software engineering
 
+- **Lumerva**, co-founder (Sep 2025 – Jul 2026): full stack of a learning platform with personalised course paths: React, TypeScript, Python, Celery and Redis, YouTube Data and Brave Search APIs.
 - **Sustainability analytics**, MODEC: React on Django REST Framework, 500+ concurrent requests; Redis cut retrieval time 40%; IoT ingestion via Lambda and S3.
 - **Analytics app**, MODEC: taken from proof of concept to secure production on AWS Elastic Beanstalk with CI/CD.
 - **CCDS alumni platform**, NTU: connects alumni and students for startup and event collaboration (WordPress, PHP, SQL).
